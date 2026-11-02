@@ -15,7 +15,7 @@ st.set_page_config(page_title="AI Sales Copilot", page_icon="🎯", layout="wide
 # Demo presets: what you sell, who you sell to, and a matching sample lead list.
 # Sample leads are fictional companies so no real person's data is used.
 PRESETS = {
-    "Sales intelligence (6sense-style)": {
+    "B2B sales intelligence platform": {
         "offering": (
             "An AI revenue platform that uses buying-intent data to show sales and marketing teams "
             "which accounts are in-market right now, and helps reps reach the right buyers first."
@@ -26,7 +26,7 @@ PRESETS = {
         ),
         "sample": "sample_leads.csv",
     },
-    "AI data analytics (Hex-style)": {
+    "AI data analytics platform": {
         "offering": (
             "An AI-powered analytics platform where data teams and business users explore data with "
             "SQL, Python or plain English, and share trusted analyses and apps across the company."
